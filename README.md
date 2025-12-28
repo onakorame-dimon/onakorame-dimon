@@ -3,7 +3,6 @@
 DevOps & Cloud Infrastructure Engineer focused on building scalable, reliable systems.
 
 
-
 ## 🧭 About Me
 I’m a technically skilled, certification-backed IT professional with a strong foundation in cloud infrastructure, networking, and scripting. 
 
@@ -26,20 +25,19 @@ Lifelong learning drives me to keep exploring new tools and technologies in DevO
 - **Tools:** Visual Studio Code, Postman, Cisco Modeling Lab (network simulation), Wireshark (network packet analysis), Fiddler (HTTP debugging)
 
 
-
 ## 📜 Certifications
 <p align="left">
-  <img src="certifications/az-500.png" alt="AZ-500" width="120"/>
-  <img src="certifications/aws-saa.png" alt="AWS Solutions Architect" width="120"/>
+  <img src="cert_badges/Az500_badge.png" alt="AZ-500" height="2000" width="120" />
+  <img src="cert_badges/Az700_badge.png" alt="AZ-700" width="120"/>
+  <img src="cert_badges/Az104_badge.png" alt="AZ-104" width="120"/>
+  <img src="cert_badges/CCNA_badge.png" alt="CCNA" width="120"/>
+  <img src="cert_badges/KCNA_badge.png" alt="KCNA" width="120"/>
+  <img src="cert_badges/AI_badge.png" alt="AI" width="120"/>
 </p>
-
-> *(Images stored in `/certifications` folder in this repo)*
-
 
 ## 🚧 Current Focus
 -  Microservices Infrastructure
 - Cloud-native technologies
-
 
 ## 📌 Selected Work
 - 
